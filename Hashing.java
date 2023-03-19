@@ -1,4 +1,5 @@
 /* 
+ Modified from : Alan Labouseur - https://www.labouseur.com/courses/algorithms/Hashing.java.html
  Hash code tests and analytics. 
 */
    

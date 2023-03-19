@@ -13,7 +13,7 @@ public class BogoSort {
         long totalPermutations = 0;
 
         List<Integer> list = new ArrayList<Integer>();
-        for(int i=0; i<14; i++) {
+        for(int i=0; i<12; i++) {
             list.add(random.nextInt(100));
         }
 
